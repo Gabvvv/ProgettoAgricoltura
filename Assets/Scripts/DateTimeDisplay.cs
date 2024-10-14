@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class DateTimeDisplay : MonoBehaviour
 {
-    public TextMeshProUGUI dateTimeText; // data in formato TextMeshProUGUI 
+    public TextMeshProUGUI dateTimeText; // variabile data in formato TextMeshProUGUI 
 
     void Update()
     {
